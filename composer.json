@@ -1,0 +1,15 @@
+{
+    "require": {
+        "helhum/dotenv-connector": "^3.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "helhum/dotenv-connector": true
+        }
+    },
+    "extra": {
+        "helhum/dotenv-connector": {
+            "env-file": ".env.helhum-dotenv-connector"
+        }
+    }
+}
