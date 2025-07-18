@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+## Description: Hello World Example
+## Usage: hello
+## Example: "ddev hello"
+
+echo "Hello World!"
